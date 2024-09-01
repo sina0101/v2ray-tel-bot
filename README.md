@@ -3,7 +3,7 @@
 ## Install & Upgrade
 
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/TeleDark/v2ray-tel-bot/main/install.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/sina0101/v2ray-tel-bot/main/install.sh)
 ```
 
 ## setup
